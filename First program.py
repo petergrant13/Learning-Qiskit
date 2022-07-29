@@ -1,4 +1,5 @@
 import numpy as np
+import qiskit
 from qiskit import QuantumCircuit, transpile
 from qiskit.providers.aer import QasmSimulator
 from qiskit.visualization import plot_histogram
